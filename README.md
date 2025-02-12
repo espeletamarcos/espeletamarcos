@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hola a todos 😄
+
+ 📱Soy Marcos Espeleta, un joven desarrollador mobile apasionado por crear apps que ayuden a las personas en su día a día.
+
+ 📈 En mi perfil encontrarás algunas de las apps que voy haciendo y como voy aprendiendo en cada una de ellas.
+
+ 💻 Entre otros lenguajes una de mis prioridades actualmente es Kotlin aunque también desarrollo en otros como Java o C++.
+
+ ⬇️ Si quieres contactar conmigo o simplemente coger inspiración de mi perfil, ¡no dudes en hacerlo!
+
+ 🙂 Muchas gracias por visitar mi perfil :)
 
 <!--
 **espeletamarcos/espeletamarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
