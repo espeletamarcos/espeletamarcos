@@ -4,7 +4,7 @@
 
  📈 En mi perfil encontrarás algunas de las apps que voy haciendo y como voy aprendiendo en cada una de ellas.
 
- 💻 Entre otros lenguajes una de mis prioridades actualmente es Kotlin aunque también desarrollo en otros como Java o C++.
+ 💻 Entre otros lenguajes una de mis prioridades actualmente es Kotlin aunque también desarrollo en otros como Java o C#.
 
  ⬇️ Si quieres contactar conmigo o simplemente coger inspiración de mi perfil, ¡no dudes en hacerlo!
 
