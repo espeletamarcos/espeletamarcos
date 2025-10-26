@@ -1,6 +1,6 @@
 ## Hola a todos 😄
 
- 📱Soy Marcos Espeleta, un joven desarrollador mobile apasionado por crear apps que ayuden a las personas en su día a día.
+ 📱Soy Marcos Espeleta, un joven desarrollador apasionado por crear apps que ayuden a las personas en su día a día.
 
  📈 En mi perfil encontrarás algunas de las apps que voy haciendo y como voy aprendiendo en cada una de ellas.
 
