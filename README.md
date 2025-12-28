@@ -4,8 +4,7 @@
 
  📈 En mi perfil encontrarás algunas de las apps que voy haciendo y como voy aprendiendo en cada una de ellas.
 
- 💻 Entre mis lenguajes más utilizados están Java y TypeScript, con énfasis en frameworks como Spring Boot y React.
-
+ 💻 Entre mis lenguajes más utilizados están Java y TypeScript, con énfasis en frameworks como Spring Boot, React y Node.JS.
  ⬇️ Si quieres contactar conmigo o simplemente coger inspiración de mi perfil, ¡no dudes en hacerlo! 
 
  🙂 Muchas gracias por visitar mi perfil :)
